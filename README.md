@@ -1,4 +1,4 @@
-#####alik-watalik-brutalik
+#####alik-watalik-brutalik-fatalik
 ### Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
